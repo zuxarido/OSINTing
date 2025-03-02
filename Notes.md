@@ -1,5 +1,5 @@
 ### Key Points
-- Research suggests building and training an AI system to chain known exploits within a month is challenging but possible with intense effort and optimization.
+- Research suggests building and training an AI system to chain vellaknown exploits within a month is challenging but possible with intense effort and optimization.
 - It seems likely that development could take 2-3 weeks, and training 1-2 weeks, by leveraging existing tools and parallelization.
 - The evidence leans toward needing a small, experienced team and significant computational resources to meet this tight timeline.
 - This approach is controversial due to potential misuse, requiring ethical considerations and responsible research.
