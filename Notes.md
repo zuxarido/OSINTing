@@ -230,7 +230,7 @@ Document progress for a research paper:
 
 #### Conclusion
 Building and training an AI system for chaining known exploits within a month is challenging but feasible with intense effort, leveraging existing resources, and focusing on automation and parallelization. Development could take 2-3 weeks, and training 1-2 weeks, requiring a small, experienced team and significant computational resources. While possible, challenges like system complexity and ethical risks must be addressed, making it a debated topic. The potential to prove AI's auto-exploit capabilities could drive better defenses, but responsible research is crucial to mitigate misuse.
-
+aaaaaaooooooo
 #### Key Citations
 - [Exploit chains explained: How and why attackers target multiple vulnerabilities | CSO Online](https://www.csoonline.com/article/571799/exploit-chains-explained-how-and-why-attackers-target-multiple-vulnerabilities.html)
 - [Automated Vulnerability Exploitation Using Deep Reinforcement Learning](https://www.mdpi.com/2076-3417/14/20/9331)
